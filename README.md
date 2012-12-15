@@ -5,3 +5,7 @@ Utility script to allow downloading of purchased video content from O'Reilly. Co
 
 Based on peepcode downloader
 https://github.com/jamierumbelow/peepcode-downloader
+
+License
+==================
+MIT License
